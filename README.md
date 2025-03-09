@@ -1,6 +1,13 @@
-# Hi there, I'm Abhimehro! 👋
+# 👋 Hi, I'm Abhi Mehrotra
 
-I'm a passionate developer focused on building impactful software. I enjoy working on innovative projects, exploring new technologies, and collaborating with creative teams.
+## 🌊 Coastal Environmental Science Enthusiast
+
+I'm an undergraduate student specializing in Coastal Environmental Science. My passion lies in analyzing data and conducting environmental research to better understand and protect our coastal ecosystems.
+
+### 🧑‍🎓 Education
+
+- **B.Sc. in Coastal Environmental Science with a concentration in Data Science** (Expected 2026)
+  - Louisiana State University
 
 ## About Me
 
@@ -11,26 +18,37 @@ I'm a passionate developer focused on building impactful software. I enjoy worki
 - 📫 Reach me at: [AbhiMhrtr@pm.com](mailto:AbhiMhrtr@pm.com)
 - ⚡ Fun fact: I love solving puzzles and exploring new tech trends!
 
-## Skills
+### 💻 Technical Skills
 
-- **Languages:** Python, JavaScript, R
-- **Frameworks & Tools:** React, Node.js, Docker, Kubernetes
-- **Interests:** Open Source, Cloud Infrastructure, DevOps
+- **Programming Languages:** Python, R
+- **Data Analysis:** pandas, numpy, tidyverse
+- **Visualization:** matplotlib, seaborn, ggplot2
+- **GIS Tools:** QGIS, ArcGIS
+- **Other Tools:** Git, GitHub
 
-## GitHub Stats
+### 📫 Let's Connect!
 
-![Abhimehro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimehro&show_icons=true&theme=radical)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/abhi-mehrotra)
+- **X:** [X](https://x.com/abhimehro)
+- **GitHub:** [github.com/abhimehro](https://github.com/abhimehro)
+
+### 📊 My GitHub Stats
+
+![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhimehro&show_icons=true&theme=radical)
 
 ## Top Repositories
 
 - [Hydrograph_Versus_Seatek_Sensors_Project](https://github.com/abhimehro/Hydrograph_Versus_Seatek_Sensors_Project) - Analyzes the relationship between hydrograph data and Seatek sensors.
 - [new_spongehunters](https://github.com/abhimehro/new_spongehunters) - The Louisiana Freshwater Sponge Hunters project.
+  
+### 💬 Let's Chat!
 
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/abhi-mehrotra)
-- [Twitter](https://x.com/abhimehro)
+Feel free to reach out if you have any questions about coastal environmental science, data analysis, or if you just want to chat about the latest environmental research!
 
 ---
 
 *This README was generated with inspiration from GitHub profile guidelines.*
+
+---
+
+*“The greatest threat to our planet is the belief that someone else will save it.” – Robert Swan*
