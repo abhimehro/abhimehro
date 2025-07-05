@@ -49,7 +49,7 @@ I'm an undergraduate student specializing in Coastal Environmental Science. My p
 - [Hydrograph_Versus_Seatek_Sensors_Project](https://github.com/abhimehro/Hydrograph_Versus_Seatek_Sensors_Project):  
   Project Overview: This project analyzes the relationship between hydrograph data and Seatek sensor measurements in river systems, providing insights into sediment bed level dynamics. The analysis combines     environmental sensing data with advanced visualization techniques to better understand river morphology.
 - [Seatek_Analysis](https://github.com/abhimehro/Seatek_Analysis):  
-  R-based analysis tier for Seatek sensor data processing and Excel workbook generation. Part of a three-tier analysis system working in conjunction with Python-based visualization project..
+  R-based analysis tier for Seatek sensor data processing and Excel workbook generation. Part of a three-tier analysis system working in conjunction with Python-based visualization project.
 - [series_correction_project_updated](https://github.com/abhimehro/series_correction_project_updated):  
   This project provides tools to automatically detect and correct discontinuities (such as jumps, gaps, or outliers) commonly found in time-series data from Seatek sensors. The goal is to produce cleaner,       more reliable datasets for further analysis, suitable for integration with systems like NESST II.
 - [opera-like-tools-edge-canary](https://github.com/abhimehro/opera-like-tools-edge-canary):  
