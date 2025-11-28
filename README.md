@@ -27,7 +27,7 @@ I'm an undergraduate student specializing in Coastal Environmental Science. My p
 - 🌱 Continuously learning new programming languages and frameworks
 - 👯 Looking to collaborate on projects that challenge and inspire me
 - 💬 Ask me about **web development, cloud computing, or machine learning**
-- 📫 Reach me at: [AbhiMhrtr@pm.com](mailto:AbhiMhrtr@pm.com)
+- 📫 Reach me at: [abhimehro@pm.me](mailto:abhimehro@pm.me)
 - ⚡ Fun fact: I love solving puzzles and exploring new tech trends!
 
 ---
