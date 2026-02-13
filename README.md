@@ -1,14 +1,21 @@
 # 👋 Hi, I'm Abhi Mehrotra
 
-![Profile Views](https://komarev.com/ghpvc/?username=abhimehro&style=flat-square)
-![Open Source Contributor](https://img.shields.io/badge/Open--Source-Contributor-brightgreen?logo=github&logoColor=white&style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square)
-![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=flat-square)
-![GIS](https://img.shields.io/badge/GIS-QGIS%20%7C%20ArcGIS-green?style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/abhimehro?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=abhimehro&style=for-the-badge&logo=username&logoColor=white)
+![Open Source Contributor](https://img.shields.io/badge/Open--Source-Contributor-brightgreen?style=for-the-badge&logo=Open--Source-Contributor&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+![GIS](https://img.shields.io/badge/GIS-QGIS%20%7C%20ArcGIS-green?style=for-the-badge&logo=GIS&logoColor=white)
+
+<div align="center">
 
 I’m an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2027), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
 
+![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimehro&theme=radical)
+
+</div>
+  
 ## 🔍 Current Technical Focus
 
 - **Data science for environmental research:** sensor-data processing, time-series correction, and reproducible analysis pipelines
@@ -58,19 +65,26 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 
 ## 📊 GitHub Stats
 
-**General Stats Card**
+<div align="center">
 
-![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimehro&show_icons=true&theme=radical&count_private=true)
+<a href="https://github.com/abhimehro">
+  <img height="180em" src="https://github-readme-stats-tau-khaki-34.vercel.app/api?username=abhimehro&show_icons=true&theme=radical&count_private=true" alt="Abhi's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-tau-khaki-34.vercel.app/api/top-langs/?username=abhimehro&layout=compact&theme=radical" alt="Top Languages"/>
+</a>
 
-
-**Top Languages**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimehro&layout=compact&theme=radical)
-
-
-**Activity Graph**
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhimehro&theme=radical)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhimehro&theme=react-dark)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abhimehro/abhimehro/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abhimehro/abhimehro/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/abhimehro/abhimehro/output/github-snake.svg" />
+</picture>
+
+![3D Contribution Graph](https://raw.githubusercontent.com/abhimehro/abhimehro/main/profile-3d-contrib/profile-night-rainbow.svg)
+
+</div>
 
 ---
 
