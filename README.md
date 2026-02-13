@@ -51,6 +51,7 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 ## 📫 Connect
 
 - **LinkedIn:** [abhi-mehrotra](https://www.linkedin.com/in/abhi-mehrotra)
+- **Instagram:** [@abhimehro](https://instagram.com/abhimehro)
 - **X (Twitter):** [@abhimehro](https://x.com/abhimehro)
 - **GitHub:** [github.com/abhimehro](https://github.com/abhimehro)
 - **Email:** [abhimehro@pm.me](mailto:abhimehro@pm.me)
