@@ -58,19 +58,18 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 ## 📊 GitHub Stats
 
 **General Stats Card**
-```markdown
-![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimehro&show_icons=true&theme=radical&count_private=true)
-```
 
-**Top Languages (Great for showing off Python/R)**
-```markdown
+![Abhi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhimehro&show_icons=true&theme=radical&count_private=true)
+
+
+**Top Languages**
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhimehro&layout=compact&theme=radical)
-```
+
 
 **Activity Graph**
-```markdown
+
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhimehro&theme=react-dark)
-```
 
 ---
 
