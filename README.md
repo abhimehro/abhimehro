@@ -39,7 +39,7 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 
 - Build from clearly scoped, issue-driven tasks
 - Prioritize readable code, reproducibility, and practical documentation
-- Optimize for maintainability so teammates and future contributors can move fast safely
+- Optimize for maintainability so teammates and future contributors can move quickly and safely
 
 ## 🧰 Skills
 
