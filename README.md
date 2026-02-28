@@ -9,7 +9,7 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-QGIS%20%7C%20ArcGIS-green?style=for-the-badge&logo=GIS&logoColor=white)
 
-I’m an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2027), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
+I’m an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2028), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
 
 <div align="center">
 
