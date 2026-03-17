@@ -9,7 +9,6 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-QGIS%20%7C%20ArcGIS-green?style=for-the-badge&logo=GIS&logoColor=white)
 
-[![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/78057)
 [![CodeScene Average Code Health](https://codescene.io/projects/78057/status-badges/average-code-health)](https://codescene.io/projects/78057)
 [![CodeScene Hotspot Code Health](https://codescene.io/projects/78057/status-badges/hotspot-code-health)](https://codescene.io/projects/78057)
 [![CodeScene Missed Goals](https://codescene.io/projects/78057/status-badges/missed-goals)](https://codescene.io/projects/78057)
