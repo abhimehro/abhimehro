@@ -9,8 +9,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-QGIS%20%7C%20ArcGIS-green?style=for-the-badge&logo=GIS&logoColor=white)
 
-<a href="https://codescene.io/projects/78057"><img src="https://codescene.io/projects/78057/status-badges/average-code-health" alt="Average Code Health"></a>
-<a href="https://codescene.io/projects/78057"><img src="https://codescene.io/projects/78057/status-badges/hotspot-code-health" alt="Hotspot Code Health"></a>
+[![CodeScene Average Code Health](https://codescene.io/projects/78057/status-badges/average-code-health)](https://codescene.io/projects/78057)
+[![CodeScene Hotspot Code Health](https://codescene.io/projects/78057/status-badges/hotspot-code-health)](https://codescene.io/projects/78057)
 [![CodeScene Missed Goals](https://codescene.io/projects/78057/status-badges/missed-goals)](https://codescene.io/projects/78057)
 
 I’m an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2028), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
