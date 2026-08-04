@@ -11,7 +11,7 @@
 
 I'm an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2028), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
 
-<!-- Hosted cards: github-stats-extended.vercel.app. Layout: intro → stats → focus → pins → research → automation → langs → collab/skills/connect → streak/activity/snake/3d -->
+<!-- Hosted cards: github-stats-extended.vercel.app -->
 <p align="center">
   <picture>
     <source
@@ -37,25 +37,33 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 
 ## 📁 Featured Projects
 
-<!-- Mobile: single-column stack via max width; desktop: two-up when space allows. -->
+### Research systems
+
+<!-- Long research repo names get full-width pins so titles are not truncated. -->
 <p align="center">
   <a href="https://github.com/abhimehro/Hydrograph_Versus_Seatek_Sensors_Project">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=Hydrograph_Versus_Seatek_Sensors_Project&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
-      width="48%"
-      height="115"
+      width="100%"
+      height="120"
       alt="Hydrograph Versus Seatek Sensors Project"
     />
   </a>
+</p>
+<p align="center">
   <a href="https://github.com/abhimehro/series_correction_project_updated">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=series_correction_project_updated&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
-      width="48%"
-      height="115"
+      width="100%"
+      height="120"
       alt="series correction project updated"
     />
   </a>
 </p>
+
+### Automation & ops
+
+<!-- Shorter names pair cleanly side-by-side. -->
 <p align="center">
   <a href="https://github.com/abhimehro/email-security-pipeline">
     <img
@@ -93,7 +101,8 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 - [system-maintenance-scripts](https://github.com/abhimehro/system-maintenance-scripts)  
   Automated maintenance scripts with scheduling and environment-aware execution for reliable daily operations.
 
-<!-- Languages card sits after the stack it describes: research + automation. -->
+### Languages in the stack
+
 <p align="center">
   <picture>
     <source
@@ -132,7 +141,6 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 
 ## 📈 Activity
 
-<!-- Closing visual beat: streak + graph + fun extras stay together at the end. -->
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=abhimehro&theme=radical&hide_border=true"
@@ -163,8 +171,12 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 
 ![3D Contribution](./profile-3d-contrib/profile-night-rainbow.svg)
 
+<br />
+
+### Guiding line
+
+> The greatest threat to our planet is the belief that someone else will save it.
+>
+> <sub>— Robert Swan</sub>
+
 </div>
-
----
-
-_"The greatest threat to our planet is the belief that someone else will save it." – Robert Swan_
