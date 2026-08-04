@@ -39,7 +39,7 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 
 ### Research systems
 
-<!-- Long research repo names get full-width pins so titles are not truncated. -->
+<!-- Full-width pins keep long research titles readable on mobile. -->
 <p align="center">
   <a href="https://github.com/abhimehro/Hydrograph_Versus_Seatek_Sensors_Project">
     <img
@@ -60,10 +60,20 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
     />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/abhimehro/Seatek_Analysis">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=Seatek_Analysis&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
+      width="100%"
+      height="120"
+      alt="Seatek Analysis"
+    />
+  </a>
+</p>
 
 ### Automation & ops
 
-<!-- Shorter names pair cleanly side-by-side. -->
+<!-- Two-up grid for shorter ops/tooling repo names. -->
 <p align="center">
   <a href="https://github.com/abhimehro/email-security-pipeline">
     <img
@@ -82,6 +92,24 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
     />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/abhimehro/ctrld-sync">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=ctrld-sync&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
+      width="48%"
+      height="115"
+      alt="ctrld-sync"
+    />
+  </a>
+  <a href="https://github.com/abhimehro/repoprompt-ce">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=repoprompt-ce&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
+      width="48%"
+      height="115"
+      alt="repoprompt-ce"
+    />
+  </a>
+</p>
 
 ### Data Science & Research Systems
 
@@ -90,16 +118,18 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 - [series_correction_project_updated](https://github.com/abhimehro/series_correction_project_updated)  
   Python tooling to detect and correct jumps, gaps, and outliers in time-series sensor data for cleaner downstream analysis.
 - [Seatek_Analysis](https://github.com/abhimehro/Seatek_Analysis)  
-  Research-oriented analysis tier supporting Seatek processing and workbook generation within a broader multi-stage workflow.
+  R-based analysis tier for Seatek sensor processing and Excel workbook generation within a multi-stage research workflow.
 
 ### Python Automation, Security, and Operations
 
 - [email-security-pipeline](https://github.com/abhimehro/email-security-pipeline)  
   A self-hosted, containerized Python system for multi-layer suspicious-email analysis and automation-driven security triage.
 - [personal-config](https://github.com/abhimehro/personal-config)  
-  Scripted setup and documentation for secure, repeatable macOS development workflows.
-- [system-maintenance-scripts](https://github.com/abhimehro/system-maintenance-scripts)  
-  Automated maintenance scripts with scheduling and environment-aware execution for reliable daily operations.
+  Scripted macOS setup, maintenance, and documentation for secure, repeatable development workflows (includes former system-maintenance tooling).
+- [ctrld-sync](https://github.com/abhimehro/ctrld-sync)  
+  Lightweight Python utility that keeps Control D folders in sync with remote block-lists for cleaner DNS filtering.
+- [repoprompt-ce](https://github.com/abhimehro/repoprompt-ce)  
+  Community edition of RepoPrompt: a native macOS context-engineering app for AI coding agents, with an MCP CLI.
 
 ### Languages in the stack
 
