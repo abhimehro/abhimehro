@@ -11,11 +11,7 @@
 
 I’m an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2028), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
 
-<div align="center">
-
-![GitHub Achievements](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhimehro&theme=radical)
-
-</div>
+<!-- profile-details card removed: upstream github-profile-summary-cards.vercel.app returns FUNCTION_INVOCATION_FAILED (HTTP 500) for all users/endpoints as of 2026-08-03. Stats cards below use the self-hosted deployment. -->
 
 ## 🔍 Current Technical Focus
 
@@ -28,6 +24,7 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 ## 📁 Featured Projects
 
 ### Data Science & Research Systems
+
 - [Hydrograph_Versus_Seatek_Sensors_Project](https://github.com/abhimehro/Hydrograph_Versus_Seatek_Sensors_Project)  
   Python analysis linking hydrograph and Seatek sensor data to study sediment bed-level dynamics and river morphology.
 - [series_correction_project_updated](https://github.com/abhimehro/series_correction_project_updated)  
@@ -36,6 +33,7 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
   Research-oriented analysis tier supporting Seatek processing and workbook generation within a broader multi-stage workflow.
 
 ### Python Automation, Security, and Operations
+
 - [email-security-pipeline](https://github.com/abhimehro/email-security-pipeline)  
   A self-hosted, containerized Python system for multi-layer suspicious-email analysis and automation-driven security triage.
 - [personal-config](https://github.com/abhimehro/personal-config)  
@@ -95,4 +93,4 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 
 ---
 
-*“The greatest threat to our planet is the belief that someone else will save it.” – Robert Swan*
+_“The greatest threat to our planet is the belief that someone else will save it.” – Robert Swan_
