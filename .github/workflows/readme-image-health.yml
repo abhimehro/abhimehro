@@ -1,0 +1,46 @@
+name: README Image Health
+
+on:
+  schedule:
+    # Daily at 14:17 UTC (staggered off the hour)
+    - cron: "17 14 * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/readme-image-health.yml"
+      - ".github/scripts/check-readme-images.py"
+  pull_request:
+    branches:
+      - main
+    paths:
+      - "README.md"
+      - ".github/workflows/readme-image-health.yml"
+      - ".github/scripts/check-readme-images.py"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: readme-image-health-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  check-images:
+    name: Check remote README images
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Probe remote image URLs from README.md
+        run: python3 .github/scripts/check-readme-images.py README.md
