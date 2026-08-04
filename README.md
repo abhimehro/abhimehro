@@ -9,9 +9,9 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
 ![GIS](https://img.shields.io/badge/GIS-QGIS%20%7C%20ArcGIS-green?style=for-the-badge&logo=GIS&logoColor=white)
 
-I’m an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2028), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
+I'm an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2028), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
 
-<!-- profile-details card removed: upstream github-profile-summary-cards.vercel.app returns FUNCTION_INVOCATION_FAILED (HTTP 500) for all users/endpoints as of 2026-08-03. Stats cards below use the self-hosted deployment. -->
+<!-- Stats host migrated 2026-08-04: github-readme-stats-tau-khaki-34.vercel.app -> github-stats-extended.vercel.app (hosted). Self-host / static SVGs deferred until reliability requires it. -->
 
 ## 🔍 Current Technical Focus
 
@@ -22,6 +22,44 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 - **User-centric design:** documentation and workflows that are accessible to collaborators across disciplines
 
 ## 📁 Featured Projects
+
+<!-- Pin cards: width~320 + height~120 keeps a readable 2x2 stack on mobile GitHub. -->
+<p align="center">
+  <a href="https://github.com/abhimehro/Hydrograph_Versus_Seatek_Sensors_Project">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=Hydrograph_Versus_Seatek_Sensors_Project&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
+      width="320"
+      height="120"
+      alt="Hydrograph Versus Seatek Sensors Project"
+    />
+  </a>
+  <a href="https://github.com/abhimehro/series_correction_project_updated">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=series_correction_project_updated&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
+      width="320"
+      height="120"
+      alt="series correction project updated"
+    />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/abhimehro/email-security-pipeline">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=email-security-pipeline&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
+      width="320"
+      height="120"
+      alt="email-security-pipeline"
+    />
+  </a>
+  <a href="https://github.com/abhimehro/personal-config">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=personal-config&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
+      width="320"
+      height="120"
+      alt="personal-config"
+    />
+  </a>
+</p>
 
 ### Data Science & Research Systems
 
@@ -64,16 +102,47 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<!-- Coastal palette + responsive light/dark via <picture>. Hosted github-stats-extended endpoint. -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=abhimehro&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&ring_color=38BDF8&show=reviews,prs_merged,prs_merged_percentage&custom_title=Abhi%20%C2%B7%20Coastal%20%26%20Data%20Systems&rank_icon=percentile&number_format=short"
+    />
+    <img
+      height="165"
+      alt="Abhi's GitHub stats"
+      src="https://github-stats-extended.vercel.app/api?username=abhimehro&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&title_color=0369A1&icon_color=0D9488&text_color=334155&bg_color=F0F9FF&ring_color=0284C7&show=reviews,prs_merged,prs_merged_percentage&custom_title=Abhi%20%C2%B7%20Coastal%20%26%20Data%20Systems&rank_icon=percentile&number_format=short"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=abhimehro&layout=compact&langs_count=8&card_width=320&hide_border=true&border_radius=12&title_color=7DD3FC&text_color=CBD5E1&bg_color=0B1C2C&custom_title=Stack%20%C2%B7%20Research%20%26%20Automation&size_weight=0.5&count_weight=0.5"
+    />
+    <img
+      height="165"
+      alt="Top languages"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhimehro&layout=compact&langs_count=8&card_width=320&hide_border=true&border_radius=12&title_color=0369A1&text_color=334155&bg_color=F0F9FF&custom_title=Stack%20%C2%B7%20Research%20%26%20Automation&size_weight=0.5&count_weight=0.5"
+    />
+  </picture>
+</p>
 
-<a href="https://github.com/abhimehro">
-  <img height="180em" src="https://github-readme-stats-tau-khaki-34.vercel.app/api?username=abhimehro&show_icons=true&theme=radical&count_private=true" alt="Abhi's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats-tau-khaki-34.vercel.app/api/top-langs/?username=abhimehro&layout=compact&theme=radical" alt="Top Languages"/>
-</a>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abhimehro&theme=radical&hide_border=true"
+    width="420"
+    alt="GitHub Streak"
+  />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhimehro&theme=radical)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abhimehro&theme=react-dark)
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=abhimehro&theme=react-dark&hide_border=true&area=true"
+    width="100%"
+    alt="Activity Graph"
+  />
+</p>
 
 ---
 
@@ -93,4 +162,4 @@ I’m an undergraduate researcher in **Coastal Environmental Science + Data Scie
 
 ---
 
-_“The greatest threat to our planet is the belief that someone else will save it.” – Robert Swan_
+_"The greatest threat to our planet is the belief that someone else will save it." – Robert Swan_
