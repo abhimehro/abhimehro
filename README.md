@@ -142,7 +142,7 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
     <img
       height="160"
       width="100%"
-      alt="Top languages: Stack · Research & Automation"
+      alt="Top languages: Stack / Research & Automation"
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhimehro&layout=compact&langs_count=8&card_width=320&hide_border=true&border_radius=12&title_color=0369A1&text_color=334155&bg_color=F0F9FF&custom_title=Stack%20%C2%B7%20Research%20%26%20Automation&size_weight=0.5&count_weight=0.5"
     />
   </picture>
