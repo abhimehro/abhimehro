@@ -11,7 +11,21 @@
 
 I'm an undergraduate researcher in **Coastal Environmental Science + Data Science** at LSU (Expected 2028), focused on building practical tools at the intersection of **research analytics, Python engineering, and automation**.
 
-<!-- Stats host migrated 2026-08-04: github-readme-stats-tau-khaki-34.vercel.app -> github-stats-extended.vercel.app (hosted). Self-host / static SVGs deferred until reliability requires it. -->
+<!-- Hosted cards: github-stats-extended.vercel.app. Layout: intro → stats → focus → pins → research → automation → langs → collab/skills/connect → streak/activity/snake/3d -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=abhimehro&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&ring_color=38BDF8&show=reviews,prs_merged,prs_merged_percentage&custom_title=Abhi%20%C2%B7%20Coastal%20%26%20Data%20Systems&rank_icon=percentile&number_format=short"
+    />
+    <img
+      height="160"
+      width="100%"
+      alt="Abhi's GitHub stats"
+      src="https://github-stats-extended.vercel.app/api?username=abhimehro&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&title_color=0369A1&icon_color=0D9488&text_color=334155&bg_color=F0F9FF&ring_color=0284C7&show=reviews,prs_merged,prs_merged_percentage&custom_title=Abhi%20%C2%B7%20Coastal%20%26%20Data%20Systems&rank_icon=percentile&number_format=short"
+    />
+  </picture>
+</p>
 
 ## 🔍 Current Technical Focus
 
@@ -23,21 +37,21 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 
 ## 📁 Featured Projects
 
-<!-- Pin cards: width~320 + height~120 keeps a readable 2x2 stack on mobile GitHub. -->
+<!-- Mobile: single-column stack via max width; desktop: two-up when space allows. -->
 <p align="center">
   <a href="https://github.com/abhimehro/Hydrograph_Versus_Seatek_Sensors_Project">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=Hydrograph_Versus_Seatek_Sensors_Project&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
-      width="320"
-      height="120"
+      width="48%"
+      height="115"
       alt="Hydrograph Versus Seatek Sensors Project"
     />
   </a>
   <a href="https://github.com/abhimehro/series_correction_project_updated">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=series_correction_project_updated&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
-      width="320"
-      height="120"
+      width="48%"
+      height="115"
       alt="series correction project updated"
     />
   </a>
@@ -46,16 +60,16 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
   <a href="https://github.com/abhimehro/email-security-pipeline">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=email-security-pipeline&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
-      width="320"
-      height="120"
+      width="48%"
+      height="115"
       alt="email-security-pipeline"
     />
   </a>
   <a href="https://github.com/abhimehro/personal-config">
     <img
       src="https://github-stats-extended.vercel.app/api/pin/?username=abhimehro&repo=personal-config&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&description_lines_count=2"
-      width="320"
-      height="120"
+      width="48%"
+      height="115"
       alt="personal-config"
     />
   </a>
@@ -79,6 +93,22 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 - [system-maintenance-scripts](https://github.com/abhimehro/system-maintenance-scripts)  
   Automated maintenance scripts with scheduling and environment-aware execution for reliable daily operations.
 
+<!-- Languages card sits after the stack it describes: research + automation. -->
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=abhimehro&layout=compact&langs_count=8&card_width=320&hide_border=true&border_radius=12&title_color=7DD3FC&text_color=CBD5E1&bg_color=0B1C2C&custom_title=Stack%20%C2%B7%20Research%20%26%20Automation&size_weight=0.5&count_weight=0.5"
+    />
+    <img
+      height="160"
+      width="100%"
+      alt="Top languages: Stack · Research & Automation"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhimehro&layout=compact&langs_count=8&card_width=320&hide_border=true&border_radius=12&title_color=0369A1&text_color=334155&bg_color=F0F9FF&custom_title=Stack%20%C2%B7%20Research%20%26%20Automation&size_weight=0.5&count_weight=0.5"
+    />
+  </picture>
+</p>
+
 ## 🤝 How I Collaborate
 
 - Build from clearly scoped, issue-driven tasks
@@ -100,38 +130,13 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 - **GitHub:** [github.com/abhimehro](https://github.com/abhimehro)
 - **Email:** [abhimehro@pm.me](mailto:abhimehro@pm.me)
 
-## 📊 GitHub Stats
+## 📈 Activity
 
-<!-- Coastal palette + responsive light/dark via <picture>. Hosted github-stats-extended endpoint. -->
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=abhimehro&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&title_color=7DD3FC&icon_color=2DD4BF&text_color=CBD5E1&bg_color=0B1C2C&ring_color=38BDF8&show=reviews,prs_merged,prs_merged_percentage&custom_title=Abhi%20%C2%B7%20Coastal%20%26%20Data%20Systems&rank_icon=percentile&number_format=short"
-    />
-    <img
-      height="165"
-      alt="Abhi's GitHub stats"
-      src="https://github-stats-extended.vercel.app/api?username=abhimehro&show_icons=true&include_all_commits=true&hide_border=true&border_radius=12&title_color=0369A1&icon_color=0D9488&text_color=334155&bg_color=F0F9FF&ring_color=0284C7&show=reviews,prs_merged,prs_merged_percentage&custom_title=Abhi%20%C2%B7%20Coastal%20%26%20Data%20Systems&rank_icon=percentile&number_format=short"
-    />
-  </picture>
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=abhimehro&layout=compact&langs_count=8&card_width=320&hide_border=true&border_radius=12&title_color=7DD3FC&text_color=CBD5E1&bg_color=0B1C2C&custom_title=Stack%20%C2%B7%20Research%20%26%20Automation&size_weight=0.5&count_weight=0.5"
-    />
-    <img
-      height="165"
-      alt="Top languages"
-      src="https://github-stats-extended.vercel.app/api/top-langs/?username=abhimehro&layout=compact&langs_count=8&card_width=320&hide_border=true&border_radius=12&title_color=0369A1&text_color=334155&bg_color=F0F9FF&custom_title=Stack%20%C2%B7%20Research%20%26%20Automation&size_weight=0.5&count_weight=0.5"
-    />
-  </picture>
-</p>
-
+<!-- Closing visual beat: streak + graph + fun extras stay together at the end. -->
 <p align="center">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=abhimehro&theme=radical&hide_border=true"
-    width="420"
+    width="100%"
     alt="GitHub Streak"
   />
 </p>
