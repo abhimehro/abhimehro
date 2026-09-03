@@ -181,7 +181,7 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=abhimehro&theme=react-dark&hide_border=true&area=true"
+    src="https://streak-stats.demolab.com?user=abhimehro&theme=dark&hide_border=true"
     width="100%"
     alt="Activity Graph"
   />
