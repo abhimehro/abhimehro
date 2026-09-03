@@ -173,17 +173,9 @@ I'm an undergraduate researcher in **Coastal Environmental Science + Data Scienc
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abhimehro&theme=radical&hide_border=true"
+    src="https://streak-stats.demolab.com?user=abhimehro&theme=radical&hide_border=true"
     width="100%"
     alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=abhimehro&theme=dark&hide_border=true"
-    width="100%"
-    alt="Activity Graph"
   />
 </p>
 
